@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MikeKlebolt/app-ip_address#readme",
   "dependencies": {
-    "ip-cidr": "^2.0.16"
+    "ip-cidr": "^2.0.16",
+    "jsdoc": "^3.6.4"
   }
 }
